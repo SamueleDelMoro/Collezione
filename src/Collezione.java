@@ -6,7 +6,7 @@ public class Collezione{
 		OperaDarte op[]= new OperaDarte[3];
 		
 		
-		Quadro q = new Quadro("CazzoConLeOrecchie", "Samuele", 1.3, 1.7);
+		Quadro q = new Quadro("CazzoConLe", "Samuele", 1.3, 1.7);
 		Scultura s = new Scultura("AntonioZitto", "Matteo", 2.5, 1.1, 0.50);
 		Quadro q2 = new Quadro("Cazzo", "Samuele", 1.3, 1.7);
 		
