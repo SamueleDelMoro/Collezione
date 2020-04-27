@@ -7,7 +7,7 @@ public class Collezione{
 		
 		
 		Quadro q = new Quadro("CazzoConLe", "Samuele", 1.3, 1.7);
-		Scultura s = new Scultura("AntonioZitto", "Matteo", 2.5, 1.1, 0.50);
+		Scultura s = new Scultura("Antonio", "Matteo", 2.5, 1.1, 0.50);
 		Quadro q2 = new Quadro("Cazzo", "Samuele", 1.3, 1.7);
 		
 		op[0]= q;
